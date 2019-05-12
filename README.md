@@ -1,5 +1,5 @@
 # dense-matrix-vector-multiplication    
-MPI programs that compute the dense matrix vector multiplication  using BLAS library via 2 different partitionings;    
+MPI programs that compute the dense matrix vector multiplication  using BLAS library via 2 different partitioning;    
 * 1D rowwise partitioning    
 * 1D columnwise partitioning.       
 
